@@ -7,8 +7,8 @@ A simple color picker and mixer built with React and Vite.
 - Choose and generate colors
 - Mix 2 to 5 colors
 - Copy HEX, RGB, and HSL codes
-- Save single and mixed colors
-- Light and dark themes
+- Save solid and mixed colors
+
 
 ## Run locally
 
