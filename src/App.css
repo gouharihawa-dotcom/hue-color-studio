@@ -139,7 +139,13 @@ h1 em {
 .studio-panel-heading h3 {
   margin: 5px 0 0;
   font-size: 18px;
-  color: #242424;
+  color: #242424 !important;
+  opacity: 1 !important;
+}
+
+.dark .studio-panel-heading h3 {
+  color: #ffffff !important;
+  opacity: 1 !important;
 }
 .palette-grid {
   display: grid;
@@ -1032,6 +1038,4 @@ h1 em {
   background: #d18b68;
   color: #171916;
 }
-.dark .studio-panel-heading h3 {
-  color: #f2f1eb;
-}
+
