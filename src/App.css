@@ -1031,3 +1031,22 @@ h1 em {
   background: #d18b68;
   color: #171916;
 }
+.workspace.studio-panel {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.color-preview {
+  width: 100%;
+  margin: 0;
+  border-radius: 0;
+}
+
+.studio-panel-heading h3 {
+  color: #242424;
+  opacity: 1;
+}
+
+.dark .studio-panel-heading h3 {
+  color: #f2f1eb;
+}
