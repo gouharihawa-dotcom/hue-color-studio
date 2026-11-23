@@ -966,3 +966,72 @@ h1 em {
   background: #f2f1eb;
   color: #20221f;
 }
+
+.dark .hero p,
+.dark .topbar nav a,
+.dark .eyebrow,
+.dark .color-code-label,
+.dark .mix-format-row > span,
+.dark .mix-card-footer span,
+.dark .mixed-title span,
+.dark .saved-subheading > span,
+.dark .saved-meta code,
+.dark .saved-card-actions button,
+.dark .empty-state p {
+  color: #b9b9ae;
+}
+
+.dark .picker-heading,
+.dark .studio-heading h2,
+.dark .studio-panel-heading h3,
+.dark .mixer-intro h2,
+.dark .mixed-title strong,
+.dark .saved-subheading h3,
+.dark .section-heading h2,
+.dark .saved-subsection .empty-state strong {
+  color: #f2f1eb;
+}
+
+.dark .color-code-row code,
+.dark .mix-format-row code {
+  color: #e8e6dc;
+}
+
+.dark .picker-value {
+  background: #292d27;
+  border-color: #484d43;
+  color: #f2f1eb;
+}
+
+.dark .mixed-swatch span {
+  background: #f2f1eb;
+  color: #20221f;
+}
+
+.dark .count,
+.dark .saved-subheading > span {
+  background: #292d27;
+  border-color: #484d43;
+  color: #e2dfd5;
+}
+
+.dark .saved-section {
+  background: #20231f;
+  border-color: #343730;
+}
+
+.dark .saved-card {
+  background: #252923;
+  border-color: #3a3d36;
+}
+
+.dark .empty-state {
+  background: #252923;
+  border-color: #484d43;
+  color: #f2f1eb;
+}
+
+.dark .brand-mark {
+  background: #d18b68;
+  color: #171916;
+}
