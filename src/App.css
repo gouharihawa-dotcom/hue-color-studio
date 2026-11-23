@@ -876,3 +876,93 @@ h1 em {
   color: #934e31;
   transform: scale(1.05);
 }
+
+.dark .primary-btn {
+  background: #d18b68;
+  border-color: #d18b68;
+  color: #171916;
+}
+
+.dark .primary-btn:hover {
+  background: #e2a17e;
+  border-color: #e2a17e;
+}
+
+.dark .secondary-btn {
+  background: #292d27;
+  border-color: #484d43;
+  color: #f2f1eb;
+}
+
+.dark .secondary-btn:hover {
+  background: #383d35;
+  border-color: #d18b68;
+}
+
+.dark .theme-btn {
+  background: #292d27;
+  border-color: #484d43;
+  color: #f2f1eb;
+}
+
+.dark .copy-code-button {
+  color: #e2dfd5;
+}
+
+.dark .copy-code-button:hover {
+  background: #383d35;
+  color: #d18b68;
+}
+
+.dark .add-mix-color {
+  background: #252923;
+  border-color: #555b4f;
+  color: #e2dfd5;
+}
+
+.dark .add-mix-color:hover {
+  background: #30362e;
+  border-color: #d18b68;
+  color: #f2f1eb;
+}
+
+.dark .use-mixed-color {
+  color: #e2a17e;
+}
+
+.dark .use-mixed-color:hover {
+  color: #ffc09b;
+}
+
+.dark .saved-card-actions button {
+  color: #d5d5cc;
+}
+
+.dark .saved-card-actions button:hover {
+  background: #383d35;
+  color: #e2a17e;
+}
+
+.dark .saved-card-actions .delete-btn {
+  color: #e2a17e;
+}
+
+.dark .saved-card-actions .delete-btn:hover {
+  background: #49332b;
+  color: #ffb18b;
+}
+
+.dark .remove-mix-button {
+  background: #383d35;
+  color: #f2f1eb;
+}
+
+.dark .remove-mix-button:hover {
+  background: #593b30;
+  color: #ffc09b;
+}
+
+.dark .copy-overlay {
+  background: #f2f1eb;
+  color: #20221f;
+}
