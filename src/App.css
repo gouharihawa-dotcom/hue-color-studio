@@ -37,7 +37,7 @@ button {
 .brand {
   display: inline-flex;
   align-items: center;
-  gap: 8px;
+  gap: 6px;
   color: inherit;
   text-decoration: none;
   font-size: 23px;
@@ -57,7 +57,7 @@ button {
 }
 .topbar nav {
   display: flex;
-  gap: 28px;
+  gap: 20px;
 }
 .topbar nav a {
   color: #777a72;
@@ -85,7 +85,7 @@ button {
   display: flex;
   justify-content: center;
   align-items: center;
-  gap: 9px;
+  gap: 5px;
 }
 .hero .eyebrow span {
   width: 6px;
@@ -449,7 +449,7 @@ h1 em {
 }
 .mixed-swatch span {
   border-radius: 20px;
-  background: #ffffffdc;
+  background:#000000;
   padding: 7px 10px;
   font-size: 9px;
   font-weight: 700;
@@ -838,9 +838,7 @@ h1 em {
   .topbar nav {
     margin-left: auto;
   }
-.brand-dot {
-  margin-right: 7px;
-}
+  
   .studio-card-actions,
   .mixed-result-actions,
   .mixer-card-actions {
