@@ -469,7 +469,7 @@ h1 em {
   display: grid;
 }
 .mixed-title span {
-  color: #999388;
+  color: #000000 !important;
   font-size: 9px;
 }
 .mixed-formats {
@@ -531,6 +531,9 @@ h1 em {
   }
 }
 
+.brand-dot {
+  margin-right: 7px;
+}
 .saved-section {
   max-width: 1120px;
   margin: 0 auto 80px;
@@ -835,7 +838,9 @@ h1 em {
   .topbar nav {
     margin-left: auto;
   }
-
+.brand-dot {
+  margin-right: 7px;
+}
   .studio-card-actions,
   .mixed-result-actions,
   .mixer-card-actions {
@@ -1038,4 +1043,6 @@ h1 em {
   background: #d18b68;
   color: #171916;
 }
-
+.dark .mixed-title span {
+  color: #000000 !important;
+}
