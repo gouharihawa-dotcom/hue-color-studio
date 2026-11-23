@@ -704,10 +704,6 @@ h1 em {
 .dark .workspace,
 .dark .mixer-section,
 .dark .picker-panel,
-.dark .saved-card {
-  background: #20231f;
-  border-color: #343730;
-}
 .dark .color-code-row,
 .dark .mix-format-row {
   background: #252823;
