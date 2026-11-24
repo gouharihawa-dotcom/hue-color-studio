@@ -838,8 +838,10 @@ h1 em {
   }
 
   .topbar nav {
-    margin-left: auto;
-  }
+  margin-left: 14px;
+  margin-right: auto;
+  gap: 12px;
+}
   
   .studio-card-actions,
   .mixed-result-actions,
