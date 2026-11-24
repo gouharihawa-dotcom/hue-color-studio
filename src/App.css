@@ -468,6 +468,7 @@ h1 em {
 }
 .mixed-title > div {
   display: grid;
+  color: #000000 !important;
 }
 .mixed-title span {
   color: #000000 !important;
