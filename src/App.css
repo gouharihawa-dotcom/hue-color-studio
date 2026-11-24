@@ -1046,3 +1046,10 @@ h1 em {
 .dark .mixed-title span {
   color: #000000 !important;
 }
+.mixed-title strong {
+  color: #000000 !important;
+}
+
+.dark .mixed-title strong {
+  color: #000000 !important;
+}
