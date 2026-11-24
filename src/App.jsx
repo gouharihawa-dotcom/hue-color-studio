@@ -1,5 +1,4 @@
 import React, { useEffect, useState } from "react";
-import { FiMoon, FiSun } from "react-icons/fi";
 
 const randomHex = () =>
   `#${Math.floor(Math.random() * 0xffffff)
@@ -189,10 +188,9 @@ export default function App() {
           <a href="#mixer">Color mixer</a>
           <a href="#saved">My colors</a>
         </nav>
-       
-     <button className="theme-btn" onClick={() => setDark(!dark)}>
-       {dark ? <><FiSun /> Light</> : <><FiMoon /> Dark</>}
-     </button>
+      <button className="theme-btn" onClick={() => setDark(!dark)}>
+       {dark ? "☀ Light" : "☾ Dark"}
+        </button>
       </header>
 
       <section className="hero">
