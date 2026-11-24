@@ -464,6 +464,7 @@ h1 em {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  color: #000000 !important;
 }
 .mixed-title > div {
   display: grid;
