@@ -70,7 +70,12 @@ button {
   background: transparent;
   padding: 9px 15px;
   color: inherit;
+  color: #20221f !important;
 }
+.dark .theme-btn {
+  color: #f2f1eb !important;
+}
+
 .hero {
   padding: clamp(55px, 8vw, 90px) 0 42px;
   text-align: center;
